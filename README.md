@@ -411,9 +411,9 @@ Machine Learning & AI Enthusiast
 
 ### Portfolio
 
-[GitHub](YOUR_GITHUB_PROFILE_URL)
+[GitHub](https://github.com/burhan-arshad24)
 
-[LinkedIn](YOUR_LINKEDIN_URL)
+[Portfolio] (https://burhan.cypherai.tech/)
 
 ---
 
