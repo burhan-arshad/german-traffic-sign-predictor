@@ -8,9 +8,7 @@ The model is trained on the **German Traffic Sign Recognition Benchmark (GTSRB)*
 
 🚀 **Try the live application:**
 
-[![Open Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-red?logo=streamlit)](YOUR_STREAMLIT_APP_URL)
-
-> Replace `YOUR_STREAMLIT_APP_URL` with your actual Streamlit deployment URL after deployment.
+[![Open Live Demo] <https://german-traffic-sign-predictor-burhan.streamlit.app/>
 
 ---
 
