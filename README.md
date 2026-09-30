@@ -202,15 +202,6 @@ The model is evaluated using:
 
 The final evaluation is performed on the held-out GTSRB test dataset.
 
-### Results
-
-| Metric                   |               Score |
-| ------------------------ | ------------------: |
-| Test Accuracy            | **ADD_RESULT_HERE** |
-| Best Validation Accuracy | **ADD_RESULT_HERE** |
-
-> Update these values after the final model evaluation.
-
 ---
 
 ## 🚀 Streamlit Application
@@ -305,8 +296,8 @@ The dataset is intentionally excluded from the repository because it is unnecess
 Clone the repository:
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
-cd gtsrb-traffic-sign-recognition
+git clone https://github.com/burhan-arshad/german-traffic-sign-predictor
+cd german-traffic-sign-predictor
 ```
 
 Create a virtual environment:
