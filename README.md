@@ -8,7 +8,7 @@ The model is trained on the **German Traffic Sign Recognition Benchmark (GTSRB)*
 
 🚀 **Try the live application:**
 
-[![Open Live Demo] <https://german-traffic-sign-predictor-burhan.streamlit.app/>
+[Open Live Demo] <https://german-traffic-sign-predictor-burhan.streamlit.app/>
 
 ---
 
